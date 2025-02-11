@@ -71,6 +71,3 @@ VADER (Valence Aware Dictionary and sEntiment Reasoner) is used to analyze the s
 *   Explainable AI (XAI)
 *   Larger datasets
 
-## 7. License
-
-(Add a license if you wish, e.g., MIT License)
